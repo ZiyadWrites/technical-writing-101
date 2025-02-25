@@ -4,7 +4,7 @@
 
 ## How to analyse your audience
 
-To gain a better understanding of who your audience is, you can start by creating an audience analysis grid:
+To gain a better understanding of who your audience is, you can complete an audience analysis grid:
 
 | Question  |  Primary |  Secondary |
 |------------  | ---------  | ---|
