@@ -1,6 +1,6 @@
 # Audience Analysis  
 
-Before creating content you must determine who the audience is. An audience analysis grid can help you to understand your audience:
+Before creating content you must determine who the audience is. An audience analysis grid can help you to understand who you are creating content for:
 
 | Question  |  Primary |  Secondary |
 |------------  | ---------  | ---|
