@@ -1,3 +1,7 @@
+Audience Analysis
+Sources
+Writing for the Technical Professions by Kristin R. Woolever [KRW]
+
 How to analyse your audience
 
 To gain a better understanding of who your audience is, you can start by creating an audience analysis grid:
